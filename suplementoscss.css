@@ -1,0 +1,31 @@
+header {
+background-image: linear-gradient(to right, rgba(0,0,0,1) 0%, rgb(7, 186, 42) 35%, rgb(8, 44, 11) 100%);
+}
+#logo{
+    border-radius: 20px;
+}
+.titulo-principal{
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-30%, -15%);
+    font-size: 35px;
+    font-family:'WrathStyles', sem serifa;
+    color: rgb(0, 0, 0);
+
+}
+
+@font-face {
+    font-family:'WrathStyles', sem serifa ;
+    src: url(WrathStyles.ttf);
+}
+
+main{
+    width: 940px;
+    margin: auto;
+}
+img{
+    align-self: "center";
+    width:300px;
+    height:300px;
+}
