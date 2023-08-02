@@ -1,0 +1,11 @@
+.cabecalho{
+    background-image:linear-gradient(purple, rgb(78, 0, 78), black) ;
+    width: auto;
+    height: 200px;
+}
+
+img{
+    width: auto;
+    height: 200px;
+    
+}
