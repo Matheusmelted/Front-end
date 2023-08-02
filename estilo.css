@@ -1,11 +1,36 @@
+body{
+    background-color: rgb(56, 54, 54);
+}
+
 .cabecalho{
     background-image:linear-gradient(purple, rgb(78, 0, 78), black) ;
     width: auto;
     height: 200px;
 }
+.img2{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+h1{
+    position: absolute;
+    top: 7%;
+    left: 25%;
+    transform: translate(-30%, -15%);
+    font-size: 35px;
+    font-family:'WrathStyles', sem serifa;
+    color: rgb(255, 255, 255);
+}
+.img1{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 1005px;   
+}
+.conteudo{
+    background-image:linear-gradient(rgb(9, 0, 136);
+    text-align: center;
+    color: white;
 
-img{
-    width: auto;
-    height: 200px;
-    
 }
