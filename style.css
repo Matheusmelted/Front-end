@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+.cabecalho{
+    background-image:linear-gradient(rgb(0, 0, 0), rgb(31, 30, 30), rgb(0, 0, 0)) ;
+    width: auto;
+    height: 200px;
+    border: 2px solid rgb(85, 16, 131);
+}
+.img2{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+h1{
+    position: absolute;
+    top: 7%;
+    left: 25%;
+    transform: translate(-30%, -15%);
+    font-size: 35px;
+    font-family:'Permanent Marker ', sem serifa;
+    color: rgb(95, 0, 204);
+}
+.img1{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 1005px;   
+}
+.conteudo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 200%;
+}
+hr{
+    color: rgb(127, 36, 201);
+    size: 10px;
+    margin-top: 20px;
+}
+.rodape{
+    color: white;
+    font-size: 110%;
+    
+}
+h2{
+    color: rgb(95, 0, 204);
+}
+.subtexto{
+    font-size;
+}
+.links{
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(97, 20, 168);
+    top: 8%;
+    left: 25%;
+}
