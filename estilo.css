@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+input{
+    background-color: green;
+    color: white;
+    width: 20%;
+    border: 2px solid white;
+    border-radius: 4px;
+}
