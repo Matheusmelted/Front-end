@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(68, 68, 68);
+}
+.cabecario{
+    background-image: linear-gradient( rgb(36, 24, 100), rgb(0, 0, 0));
+    width: auto;
+    height: 250px;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.h11{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    padding-left: 240px;
+    padding-top: 65px;
+    font-size: 45px;
+    position: absolute;
+}
+.img1{
+    width: auto;
+    height: 300px;
+    padding-left: 1200px;
+    position:relative;
+}
