@@ -3,9 +3,8 @@ body{
 }
 .cabecario{
     background-image: linear-gradient( rgb(36, 24, 100), rgb(0, 0, 0));
-    width: auto;
+    width: 2000px;
     height: 250px;
-    border-radius: 30px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% 100%;
@@ -15,7 +14,7 @@ body{
     color: rgb(255, 255, 255);
     padding-left: 240px;
     padding-top: 65px;
-    font-size: 45px;
+    font-size: 20px;
     position: absolute;
 }
 .img1{
